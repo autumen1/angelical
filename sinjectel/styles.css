@@ -3,9 +3,10 @@
     html {
                 scrollbar-width: none;
                 height: 70vh;
-                background: url('https://fastly.picsum.photos/id/121/1600/1067.jpg?hmac=QDrnlQAvC_54xDpx2afpzKMbjCZvnRljseYvkK8XPCQ');
-            }
-    body {
+               
+                background: no-repeat url('imgs/wallpaper.jpg');
+    
+                body {
         font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
         padding: 200px;
         height: 100vh;      
