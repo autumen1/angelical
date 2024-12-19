@@ -160,7 +160,7 @@ input[type="range"]:focus {
     box-shadow: 0 0 20px #ffffff;
 }
 input[type="range"]::-webkit-slider-runnable-track {
-    height: 8px;
+    height: 15px;
     background: #f7f8fa;
     border-radius: 9px;
     border-color: white;
@@ -170,8 +170,8 @@ input[type="range"]::-webkit-slider-thumb {
     appearance: none;
     transform: translatey(-30%);
     width: 15px;
-    height: 15px;
-    border-radius: 30%;
+    height: 35px;
+    border-radius: 10%;
     background: #8ec5ff;
     cursor: grab;
     transition: transform 0.2s, box-shadow 0.3s ease-in-out;
