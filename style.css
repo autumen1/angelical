@@ -181,7 +181,7 @@ input[type="range"]::-webkit-slider-thumb:hover {
     box-shadow: 0 0 5px #ffff;
 }
 input[type="range"]::-moz-range-track {
-    height: 8px;
+    height: 15px;
     background: rgb(127, 154, 255);
     border-radius: 10px;
 }
